@@ -1,0 +1,12 @@
+{
+  "name": "web-audio-components-simple-reverb",
+  "description": "A simple reverb.",
+  "version": "0.0.1",
+  "keywords": [
+    "web-audio",
+    "reverb",
+    "effect"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
